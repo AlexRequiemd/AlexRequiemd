@@ -6,6 +6,7 @@
   - <a href="https://www.linkedin.com/in/alex-sandro-alves-rocha-filho-608904222/">LinkedIn.</a>
   - <a href="https://gamejolt.com/@alexrequiemd">Gamejolt.</a>
   - <a href="https://alexrequiemd.itch.io./">Itch.io.</a>
+  - <a href="https://twitter.com/Requiemd1">Twitter.</a>
 
 <!---
 AlexRequiemd/AlexRequiemd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
